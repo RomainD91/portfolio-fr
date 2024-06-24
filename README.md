@@ -1,4 +1,4 @@
-# Data Scientist ([English portfolio](https://romaind91.github.io/portfolio/))
+# Data Scientist ([English version](https://romaind91.github.io/portfolio/))
 
 **Compétences techniques:** Python, Github, Jupyter, Excel, SQL, Power BI
 
