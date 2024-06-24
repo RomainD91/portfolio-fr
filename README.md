@@ -1,9 +1,15 @@
-# Data Scientist
+# Data Scientist ([English portfolio](https://romaind91.github.io/portfolio/))
 
 **Compétences techniques:** Python, Github, Jupyter, Excel, SQL, Power BI
 
-### Projets
+## Formations
+- Master 2, Gestion Industrielle | IAE Bordeaux (_2016_)
+- Bachelor, Commerce International | Université de Coventry (_2013_)
+- DUT, Gestion des entreprises et des administrations | IUT Saint-Etienne (_2012_)
 
+---
+
+## Projets
 #### Customer Churn Prediction - Machine Learning Project
 
 [Code Github](https://github.com/RomainD91/Project-ML-Customer-Churn-Prediction.git)
@@ -18,15 +24,7 @@ Développement d'un projet d'analyse de données pour identifier les causes d'an
 
 ---
 
-### Formations
-
-- Master 2, Gestion Industrielle IAE Bordeaux (2016)
-- Bachelor, Commerce International Université de Coventry (2013)
-- DUT, Gestion des entreprises et des administrations (2012)
-
----
-
-### Expériences professionnelles
+## Expériences professionnelles
 #### Coach Professionnel Freelance (2019-2023)
 
 - Organisation et coordination réussies de 50 événements professionnels, notamment des formations, des ateliers et des campagnes.
