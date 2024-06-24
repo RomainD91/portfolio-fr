@@ -8,7 +8,7 @@
 
 [Code Github](https://github.com/RomainD91/Project-ML-Customer-Churn-Prediction.git)
 
-Développement d'un modèle de machine learning pour prédire le désabonnement des clients d'une entreprise de télécommunications en utilisant Python. Ce projet comprend une analyse des données ainsi que l'application de techniques fondamentales de modélisation et de prétraitement. Il aborde le déséquilibre des classes et réalise l'ingénierie des caractéristiques pour améliorer la précision du modèle. Le résultat est un rappel élevé (0.8-0.9), permettant d'identifier efficacement les clients susceptibles de se désabonner. Cette approche fournit des recommandations pour renforcer la rétention client, améliorer la satisfaction globale, et augmenter la fidélité à long terme.
+Développement d'un modèle de machine learning pour prédire le désabonnement des clients d'une entreprise de télécommunications en utilisant Python. Ce projet comprend une analyse des données ainsi que l'application de techniques fondamentales de prétraitement et de modélisation. Il aborde le déséquilibre des classes et réalise l'ingénierie des caractéristiques pour améliorer la précision du modèle. Le résultat est un rappel élevé (0.8-0.9), permettant d'identifier efficacement les clients susceptibles de se désabonner. Cette approche fournit des recommandations pour renforcer la rétention client, améliorer la satisfaction globale, et augmenter la fidélité à long terme.
 
 #### Uber Supply-Demand Gap Analysis
 
