@@ -3,6 +3,7 @@
 **Compétences techniques:** Python, Github, Jupyter, Excel, SQL, Power BI
 
 ## Formations
+
 - Master 2, Gestion Industrielle | IAE Bordeaux (_2016_)
 - Bachelor, Commerce International | Université de Coventry (_2013_)
 - DUT, Gestion des entreprises et des administrations | IUT Saint-Etienne (_2012_)
